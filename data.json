@@ -1,0 +1,348 @@
+{
+    "success": true,
+    "statusCode": 200,
+    "message": "Users Retrieve successfully",
+    "data": {
+        "myData": {
+            "id": "680c554bbf013cd67ac7c705",
+            "userName": "test user",
+            "name": "test user",
+            "role": "USER",
+            "interestedIn": "GIRLS",
+            "gender": "MALE",
+            "dob": "1990-01-01T00:00:00.000Z",
+            "images": [
+                "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/logo (3).png"
+            ],
+            "latitude": 40.7128,
+            "longitude": -74.006,
+            "radius": null,
+            "address": "123 Main Street, City, Country",
+            "bio": "sjsjs",
+            "profession": "gfg",
+            "language": "password123"
+        },
+        "usersData": [
+            {
+                "id": "681057a0ec381d0b680b7456",
+                "userName": "test@name",
+                "name": "adfsfdsafds",
+                "role": "USER",
+                "interestedIn": "GIRLS",
+                "gender": "MALE",
+                "dob": "2007-04-08T18:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/f07def50-31a7-4837-b0ed-9f67f06ccc16879338575275489314.jpg",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/67b226bc-fa11-4986-9532-1b6d510e6a80174261255888908283.jpg"
+                ],
+                "latitude": 37.43277416148467,
+                "longitude": -122.0880627259612,
+                "radius": null,
+                "address": null,
+                "bio": null,
+                "profession": null,
+                "language": null
+            },
+            {
+                "id": "680f56181bc18e63ec58ac21",
+                "userName": "hasan@mehide",
+                "name": "orif",
+                "role": "USER",
+                "interestedIn": "BOTH",
+                "gender": "MALE",
+                "dob": "1990-01-01T00:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/92eb9c32-b101-4863-9af7-91a0560eeed41371521721183194857.jpg",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/e6a55486-d752-4128-82c7-6337402b16934501364774190307097.jpg",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/931a9965-33f6-4a38-b14e-82e07bdec1a0384383167040919026.jpg",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/deepl_compatible_glossary.csv",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/player.png"
+                ],
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "radius": null,
+                "address": "123 Main Street, City, Country",
+                "bio": "sjsjs",
+                "profession": "gfg",
+                "language": "password123"
+            },
+            {
+                "id": "680f52841bc18e63ec58ac1d",
+                "userName": "mdsharifhossain",
+                "name": "Md Sharif Hossain",
+                "role": "USER",
+                "interestedIn": null,
+                "gender": null,
+                "dob": null,
+                "images": [
+                    "https://lh3.googleusercontent.com/a/ACg8ocKkQb4k2OKMCD9sT8WCSZv7pdK5Mv7dfnK5ZFTIP65gpvFwgJk=s96-c"
+                ],
+                "latitude": null,
+                "longitude": null,
+                "radius": null,
+                "address": null,
+                "bio": null,
+                "profession": null,
+                "language": null
+            },
+            {
+                "id": "680f5041ed8f21ba073fafdd",
+                "userName": "hellotest",
+                "name": "myname",
+                "role": "USER",
+                "interestedIn": "BOTH",
+                "gender": "MALE",
+                "dob": "2025-04-28T18:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/IMG-20250218-WA0007.jpg",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/f3b67389-689e-42d9-931a-f20d0f3432c08188706799971098682.jpg",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/45fa8634-8482-4602-9bcc-21f8690f644b4599614009105167868.jpg"
+                ],
+                "latitude": 47.61220119193609,
+                "longitude": -122.3309230059385,
+                "radius": null,
+                "address": null,
+                "bio": null,
+                "profession": null,
+                "language": null
+            },
+            {
+                "id": "680f362061d3bf8993847dc1",
+                "userName": "hasan@Mehide",
+                "name": "test user",
+                "role": "USER",
+                "interestedIn": "GIRLS",
+                "gender": "MALE",
+                "dob": "2015-08-18T18:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/IMG-20250218-WA0007.jpg",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/IMG-20250218-WA0008.jpg",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/IMG-20250218-WA0006.jpg"
+                ],
+                "latitude": 37.439538005379,
+                "longitude": -122.0792104303837,
+                "radius": null,
+                "address": null,
+                "bio": null,
+                "profession": null,
+                "language": null
+            },
+            {
+                "id": "680f27e5f801f63db576076e",
+                "userName": "mrotzis",
+                "name": "Tanvir",
+                "role": "USER",
+                "interestedIn": "BOYS",
+                "gender": "MALE",
+                "dob": "1990-01-01T00:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/image 13.png",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/logo (3).png"
+                ],
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "radius": null,
+                "address": "123 Main Street, City, Country",
+                "bio": null,
+                "profession": null,
+                "language": null
+            },
+            {
+                "id": "680f275df801f63db576076b",
+                "userName": "mehedi12",
+                "name": "orif",
+                "role": "USER",
+                "interestedIn": "BOYS",
+                "gender": "MALE",
+                "dob": "1990-01-01T00:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/image 13.png",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/logo (3).png"
+                ],
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "radius": null,
+                "address": "123 Main Street, City, Country",
+                "bio": null,
+                "profession": null,
+                "language": null
+            },
+            {
+                "id": "680def8a26411873288b7393",
+                "userName": "the@mehide",
+                "name": "orif",
+                "role": "USER",
+                "interestedIn": "BOTH",
+                "gender": "MALE",
+                "dob": "1990-01-01T00:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/A_Comprehensive_Guide_to_Early_Childhood_Education_Products_7.jpg"
+                ],
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "radius": null,
+                "address": "123 Main Street, City, Country",
+                "bio": "sjsjs",
+                "profession": "gfg",
+                "language": "password123"
+            },
+            {
+                "id": "680deb1a60308929683b8237",
+                "userName": "S62",
+                "name": "orif",
+                "role": "USER",
+                "interestedIn": "BOYS",
+                "gender": "MALE",
+                "dob": "1990-01-01T00:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/deepl_compatible_glossary.csv",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/player.png",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/image 13.png",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/vps tutorlas1.png"
+                ],
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "radius": null,
+                "address": "123 Main Street, City, Country",
+                "bio": "sjsjs",
+                "profession": "gfg",
+                "language": "password123"
+            },
+            {
+                "id": "680dc499aa7fae0a3b84757c",
+                "userName": "Shahinhss",
+                "name": "orif",
+                "role": "USER",
+                "interestedIn": "BOYS",
+                "gender": "MALE",
+                "dob": "1990-01-01T00:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/logo (3).png"
+                ],
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "radius": null,
+                "address": "123 Main Street, City, Country",
+                "bio": "sjsjs",
+                "profession": "gfg",
+                "language": "password123"
+            },
+            {
+                "id": "680dc471aa7fae0a3b84757b",
+                "userName": "hgwstj8gh7",
+                "name": "orif",
+                "role": "USER",
+                "interestedIn": null,
+                "gender": null,
+                "dob": "1990-01-01T00:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/logo (3).png"
+                ],
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "radius": null,
+                "address": "123 Main Street, City, Country",
+                "bio": "sjsjs",
+                "profession": "gfg",
+                "language": "password123"
+            },
+            {
+                "id": "680db573e37779a2e8a0862d",
+                "userName": "morning",
+                "name": "orif",
+                "role": "USER",
+                "interestedIn": null,
+                "gender": null,
+                "dob": "1990-01-01T00:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/logo (3).png"
+                ],
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "radius": null,
+                "address": "123 Main Street, City, Country",
+                "bio": "sjsjs",
+                "profession": "gfg",
+                "language": "password123"
+            },
+            {
+                "id": "680b6984716586e622b94df0",
+                "userName": "hadan",
+                "name": "Mehide Hasan",
+                "role": "USER",
+                "interestedIn": "BOTH",
+                "gender": "FEMALE",
+                "dob": "1990-01-01T00:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/logo (3).png"
+                ],
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "radius": null,
+                "address": "123 Main Street, City, Country",
+                "bio": "sjsjs",
+                "profession": "gfg",
+                "language": "password123"
+            },
+            {
+                "id": "680b494ee0be0626ddd29ba1",
+                "userName": "Shahinh",
+                "name": "orif",
+                "role": "USER",
+                "interestedIn": "BOYS",
+                "gender": "MALE",
+                "dob": "1990-01-01T00:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/logo (3).png"
+                ],
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "radius": null,
+                "address": "123 Main Street, City, Country",
+                "bio": "sjsjs",
+                "profession": "gfg",
+                "language": "password123"
+            },
+            {
+                "id": "6808e4f44923bfae360a297b",
+                "userName": "test@user",
+                "name": "the",
+                "role": "USER",
+                "interestedIn": "GIRLS",
+                "gender": "MALE",
+                "dob": "2025-04-21T18:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/19d0efdd-f540-4cb7-86ea-33b146d882234994767939658134477.jpg",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/8221e68e-cab2-4d48-8675-8e31a43b6a938382168408515488013.jpg"
+                ],
+                "latitude": 37.43272783714953,
+                "longitude": -122.088083177805,
+                "radius": null,
+                "address": null,
+                "bio": null,
+                "profession": null,
+                "language": null
+            },
+            {
+                "id": "6808db89a68d8d043bf2babb",
+                "userName": "ysrcw6pwpp@qacmjeq.com",
+                "name": "fdsafdsfdsa",
+                "role": "USER",
+                "interestedIn": "BOYS",
+                "gender": "MALE",
+                "dob": "2025-04-20T18:00:00.000Z",
+                "images": [
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/ffb5cd89-190f-4656-a7a5-b024fcc8a0361091100355758390688.jpg",
+                    "https://smtech-space.nyc3.digitaloceanspaces.com/eshofer/user/d87c497e-bc74-4ee8-a68f-ec6acbd12d86306191996156143721.jpg"
+                ],
+                "latitude": 37.43267325959145,
+                "longitude": -122.088085860014,
+                "radius": null,
+                "address": null,
+                "bio": null,
+                "profession": null,
+                "language": null
+            }
+        ]
+    }
+}
