@@ -173,6 +173,3 @@ async def get_matches(input_data: InputData):
         "data": matches
     }
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000) 
